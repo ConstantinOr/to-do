@@ -20,6 +20,14 @@ This project is designed for creating, deleting tasks, and changing task statuse
 To build and run the project for testing, use the following commands:
 
 ```sh
+mpm i
+```
+
+```sh
+next build
+```
+
+```sh
 docker-compose build --no-cache
 ```
 
